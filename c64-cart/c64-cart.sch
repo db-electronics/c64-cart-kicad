@@ -966,8 +966,6 @@ Wire Wire Line
 Wire Wire Line
 	3875 6175 3875 6275
 Wire Wire Line
-	2850 5650 3425 5650
-Wire Wire Line
 	4875 2750 4450 2750
 Wire Wire Line
 	4875 2650 4450 2650
@@ -1461,4 +1459,6 @@ F 5 "DIODE ARRAY SCHOTTKY 30V SOT23-3" H 3075 4500 60  0001 C CNN "Description"
 	1    2225 4275
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2850 5650 3425 5650
 $EndSCHEMATC
